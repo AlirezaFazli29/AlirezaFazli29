@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlirezaFazli29
 - 👀 I’m interested in Machine Learning, python, VHDL and so on .... :D
 - 🌱 I’m currently learning ML and ANNs
-- 💞️ I’m looking to collaborate on NLP and ML generally 
+- 💞️ I’m looking to collaborate DNNs and ML generally 
 - 📫 How to reach me: You can reach me by my email adress AlirezaFazli29@gmail.com and also here is my telegram account -> https://t.me/Alireza_f99
 
 <!---
